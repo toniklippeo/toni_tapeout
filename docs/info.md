@@ -13,8 +13,8 @@ Controlling some leds in the 8 segment led
 
 ## How to test
 
-Explain how to use your project
+Dummy test, nothing for now
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+8 segments
